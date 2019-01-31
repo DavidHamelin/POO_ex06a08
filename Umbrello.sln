@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbrelloEx06", "UmbrelloEx06\UmbrelloEx06.csproj", "{0C9190D1-E3DC-4735-A463-6FBBDCB96960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbrelloEx07", "UmbrelloEx07\UmbrelloEx07.csproj", "{3940B9E2-5052-412F-8861-9EA913919D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbrelloEx08", "UmbrelloEx08\UmbrelloEx08.csproj", "{605B8DE6-6D0A-4AF1-9B1F-EB4435E8964F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9190D1-E3DC-4735-A463-6FBBDCB96960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9190D1-E3DC-4735-A463-6FBBDCB96960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9190D1-E3DC-4735-A463-6FBBDCB96960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9190D1-E3DC-4735-A463-6FBBDCB96960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3940B9E2-5052-412F-8861-9EA913919D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3940B9E2-5052-412F-8861-9EA913919D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3940B9E2-5052-412F-8861-9EA913919D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3940B9E2-5052-412F-8861-9EA913919D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605B8DE6-6D0A-4AF1-9B1F-EB4435E8964F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605B8DE6-6D0A-4AF1-9B1F-EB4435E8964F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605B8DE6-6D0A-4AF1-9B1F-EB4435E8964F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605B8DE6-6D0A-4AF1-9B1F-EB4435E8964F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A067F9-99CC-44D9-82C2-A5A7F75BD97F}
+	EndGlobalSection
+EndGlobal

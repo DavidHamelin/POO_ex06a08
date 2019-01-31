@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\bin\Debug\UmbrelloEx06.exe.config
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\bin\Debug\UmbrelloEx06.exe
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\bin\Debug\UmbrelloEx06.pdb
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\obj\Debug\UmbrelloEx06.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\obj\Debug\UmbrelloEx06.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\obj\Debug\UmbrelloEx06.exe
+C:\Users\Dell\source\repos\Umbrello\UmbrelloEx06\obj\Debug\UmbrelloEx06.pdb
